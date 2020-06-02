@@ -1,6 +1,6 @@
 # Programming Languages Term Project - Encryption Algorithms
-The project consists of two tasks.\
-The first task is three parts:
+The project consists of two tasks.  
+The first task is three parts:  
 Firstly, a password matrix was requested to be created.  
 In the second part, it is requested to encrypt the txt file that provides the given conditions.  
 This password, consisting of the last ASCII characters, was requested to be deciphered.  
